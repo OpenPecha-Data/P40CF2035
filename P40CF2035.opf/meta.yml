@@ -1,0 +1,35 @@
+id: P40CF2035
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA23926
+  instance_id: http://purl.bdrc.io/resource/IE23926
+  collection_id: http://purl.bdrc.io/resource/PR0ET006
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཐེག་པ་ཐམས་ཅད་ཀྱི་ཤན་འབྱེད་ཉི་འོད་རབ་གསལ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P7637
+  publisher: PalriParkhang
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    ec810bc9fc6b45e99172a67f51fed6bb:
+      title: ༡༽༄༅།་།ཐེག་པ་ཐམས་ཅད་ཀྱི་ཤན་འབྱེད་ཉི་འོད་རབ་གསལ་ལས་སྟོད་ཆ་ཞེས་བྱ་བ་བཞུགས་སོ།་།༢༽༄༅།་།ཨོཾ་སྭ་སྟི།སི་དྷྃ།དམིགས་མེད་མི་འབྱེད་དབྱི
+      volume_number: 1
+      base_file: UT23926_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VL489315D5375619AF
+      image_group: null
+      quality: null
+    459b1a72fa88406dbb3ae9a6ce4f7c47:
+      title: ༡༽༄༅།་།ཐེག་པ་ཐམས་ཅད་ཀྱི་ཤན་འབྱེད་ཉི་འོད་རབ་གསལ་ལས་སྨད་ཆ་ཞེས་བྱ་བཞུགས་སོ།་།
+      volume_number: 2
+      base_file: UT23926_002_0001.txt
+      reference: http://purl.bdrc.io/resource/VLEAD0419A86E7A848
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W23926
+  - http://purl.bdrc.io/resource/MW23926
+created_at: '2021-12-22T11:09:50.317210'
+last_modified_at: '2021-12-22T11:09:50.317217'
